@@ -27,7 +27,7 @@ Follow these steps to get the project running on your local machine:
 - You can get api key from [here](https://aistudio.google.com/app/apikey)
   
 
-4. Open index.html in a web browser to access the chatbot interface.
+4. Run index.html using live-server to access the chatbot interface.
 
 
 # 🖼️ Chat Interface
