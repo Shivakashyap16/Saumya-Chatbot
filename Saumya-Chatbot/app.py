@@ -7,7 +7,7 @@ app = Flask(__name__)
 CORS(app)  # Enable CORS
 
 # Configure the API key
-API_KEY = 'Paste you API Key here'
+API_KEY = 'Paste your API Key here'
 genai.configure(api_key=API_KEY)
 
 # Initialize the chat model
