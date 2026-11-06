@@ -15,7 +15,7 @@ Follow these steps to get the project running on your local machine:
 ### Steps
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/saumya-chatbot.git
+   git clone https://github.com/Shivakashyap16/saumya-chatbot.git
 
 2. Navigate to the project directory:
    ```bash
